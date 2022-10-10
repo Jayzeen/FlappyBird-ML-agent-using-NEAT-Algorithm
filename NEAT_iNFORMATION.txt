@@ -1,0 +1,13 @@
+NEAT ALGORITHM  (NeuroEvolution of Augmenting Topologies)
+
+Inputs   --> Bird Y, Top pipe, Bottom pipe, Bottom
+
+Outputs  --> Jump up or not (2 outputs)
+
+Activation function --> TanH (Value between -1 and 1)
+
+Population size  --> 100(In this case 100 birds)
+
+Fitness function  -->  distance travelled by a birds(Higher the distance better the bird)
+
+Max generations -->  30
